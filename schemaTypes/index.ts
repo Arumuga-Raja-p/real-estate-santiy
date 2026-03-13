@@ -1,8 +1,9 @@
 
 import aboutTeamSection from './aboutTeamSection'
+import galleryPage from './galleryPage'
 import property from './property'
 import partnersSection from './partnersSection'
 import testimonal from './testimonal'
 
 
-export const schemaTypes = [testimonal, property, partnersSection, aboutTeamSection]
+export const schemaTypes = [testimonal, property, partnersSection, aboutTeamSection, galleryPage]
